@@ -1,0 +1,11 @@
+{
+  "display_name": "世界書 × 全域正則綁定",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Worldbook Regex Binder contributors",
+  "version": "1.0.0",
+  "auto_update": false
+}

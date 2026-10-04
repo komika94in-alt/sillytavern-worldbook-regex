@@ -1,0 +1,10 @@
+.wbr-panel { display: flex; flex-direction: column; gap: 12px; text-align: left; }
+.wbr-panel select { width: 100%; }
+.wbr-panel p { margin: 0; line-height: 1.6; }
+.wbr-status { padding: 10px; background: var(--black30a); white-space: pre-wrap; overflow-wrap: anywhere; }
+.wbr-list { max-height: 45vh; overflow: auto; display: flex; flex-direction: column; gap: 8px; }
+.wbr-row { display: flex; align-items: center; gap: 8px; padding: 6px; border-bottom: 1px solid var(--SmartThemeBorderColor); }
+.wbr-row span { flex: 1; overflow-wrap: anywhere; }
+.wbr-row small { opacity: .7; }
+.wbr-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+#wbr-worldbook-button { flex-shrink: 0; }
